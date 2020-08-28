@@ -1,33 +1,64 @@
-sergio.hernandez
-s3rg168z
+{
+    "userVPN":[
+        {
+            "tipo":"vpn"
+            "user":"dany.gutierrez",
+            "pass":"Gtz*4dny"
+        },{
+            "tipo":"vpn"
+            "user":"alberto.lopez",
+            "pass":"4lb33t01"
+        },{
+            "tipo":"svnComimsa"
+            "user":"dany.gutierrez",
+            "pass":"oS6w4Z37zz"
+        },{
+            "tipo":"correoComimsa"
+            "user":"dany.gtz@comimsa.com",
+            "pass":"D4nyG7z"
+        },{
+            "tipo":"udemy"
+            "user":"lic.manuelvera@gmail.com",
+            "pass":"205217719"
+        },{
+            "tipo":"gitHub"
+            "user":"danygutierrez12",
+            "pass":"12Dany12"
+        }
+    ]
+}
 
 
+
+github
+danygutierrez12
+12Dany12
+
+Cuentra UDEMY user: lic.manuelvera@gmail.com pass: 205217719
+
+correo comimsa
+dany.gtz
+pass D4nyG7z
+
+correo
+usuario: dany.gutierrez@cns-ipicyt.mx
+contraseña: H2DBxYfw7gJrRx97
+
+
+vpn
 dany.gutierrez
 d4nyg7rrz
-
-
-
 
 
 SVN
 dany.gutierrez
 oS6w4Z37zz
 
-VPN
-dany.gutierrez
-d4gu71
-
-d4nyg7rrz
-
-Gtz*4dny
-
 Usuario VPN
 Usuario: irma.paz
 Password: 893.!3dEd
 
 
-alberto.lopez
-4lb33t01
 
 Irma, 2:48 PM
 148.207.98.249
@@ -38,17 +69,6 @@ Gtz*4dny
 
 
 
-
-correo comimsa
-dany.gtz
-
-pass D4nyG7z
-
-correo
-usuario: dany.gutierrez@cns-ipicyt.mx
-contraseña: H2DBxYfw7gJrRx97
-
-
 SVN
 dany.gutierrez
 oS6w4Z37zz
@@ -57,16 +77,12 @@ VPN
 dany.gutierrez
 d4gu71
 
-correo
-usuario: dany.gutierrez@cns-ipicyt.mx
-contraseña: H2DBxYfw7gJrRx97
 
 
 udemy
 sergioahdez83@gmail.com
 peluda83
 
-Cuentra UDEMY user: lic.manuelvera@gmail.com pass: 205217719
 
 candado encontrado 4991
 
@@ -84,7 +100,4 @@ c$@hCFfj
 
 
 
-github
-danygutierrez12
-12Dany12
 
