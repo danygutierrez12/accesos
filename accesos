@@ -24,6 +24,22 @@
             "tipo":"gitHub"
             "user":"danygutierrez12",
             "pass":"12Dany12"
+        },{
+            "tipo":"sgti"
+            "user":"becas",
+            "pass":"c$@hCFfj"
+        },{
+            "tipo":"jenkins"
+            "user":"becasdeploy",
+            "pass":"becasdeploy"
+        },{
+            "tipo":"funcioPublicaAPF"
+            "user":"dany.gtz@comimsa.com",
+            "pass":"Dany0000$"
+        },{
+            "tipo":"funcioPublicaAPF"
+            "user":"GUGD890112HDFTRN08",
+            "pass":"Dany0000$"
         }
     ]
 }
