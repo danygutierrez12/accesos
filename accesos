@@ -68,12 +68,15 @@
             "tipo":"internetencasa",
             "user"5560550079"
             "pass":"12D4ny12"
+        },{
+            "tipo":"gitlabConacyt",
+            "user"dany.gutierrez"
+            "pass":"dgutierrez"
+        },{
+            "tipo":"claro",
+            "user"dany.gutierrez"
+            "pass":"illuminati.dany@gmail.com"
         }
-
-
-
-
-
         
     ]
 }
