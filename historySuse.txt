@@ -1,0 +1,437 @@
+    1  pwd
+    2  cd /usr/
+    3  ls
+    4  cd ..
+    5  ls
+    6  history
+    7  su
+    8  cd /usr/local/share/applications
+    9  cd /usr/local/share/
+   10  LS
+   11  ls
+   12  cd ..
+   13  ls
+   14  ls -lsa
+   15  su
+   16  ./SpringToolSuite4
+   17  ls
+   18  cd /
+   19  ls
+   20  ls etc/
+   21  LS
+   22  CD ~/.local/share/applications
+   23  cd ~/.local/share/applications
+   24  ls
+   25  cd ..
+   26  ls
+   27  cd /usr/share/
+   28  ls
+   29  cd applications/
+   30  ls
+   31  PWD
+   32  pwd
+   33  ls
+   34  sudo zypper ar http://dl.google.com/linux/chrome/rpm/stable/x86_64 Google-Chrome
+   35  wget https://dl.google.com/linux/linux_signing_key.pub
+   36  sudo wget https://dl.google.com/linux/linux_signing_key.pub
+   37  sudo zypper ref
+   38  sudo zypper install google-chrome-stable
+   39  ls -lstr
+   40  ls
+   41  ls -l
+   42  npm
+   43  zypper se node
+   44  zypper install nodejs14
+   45  su
+   46  PWD
+   47  pwd
+   48  cp * /usr/lib64/jvm/
+   49  sudo cp * /usr/lib64/jvm/
+   50  sudo cp * -r /usr/lib64/jvm/
+   51  ls
+   52  pwd
+   53  zypper se notepad++
+   54  zypper se notepad
+   55  zypper install notepad
+   56  su zypper install notepad
+   57  sudo zypper install notepad
+   58  sudo zypper install notepadqq
+   59  zypper se visualestudio
+   60  zypper se visual
+   61  zypper se visualStudio
+   62  zypper se openforti
+   63  sudo zypper install openfortivpn
+   64  vpn
+   65  vpn -v
+   66  openfortivpn
+   67  openfortivpn -u dany.gutierrez 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249
+   68  sudo openfortivpn -u dany.gutierrez 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249
+   69  sudo openfortivpn -u dany.gutierrez 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+   70  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+   71  cd /home/
+   72  ls
+   73  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+   74  ls
+   75  ls /usr/lib64/jvm/
+   76  ls
+   77  ls /usr/lib64/jvm/
+   78  pwd
+   79  zypper se spoty
+   80  java
+   81  java -v
+   82  java -version
+   83  mvn -v
+   84  mvn 
+   85  ls /etc/profile.d/
+   86  vi /etc/profile.d/maven.sh
+   87  sudo
+   88  su
+   89  ls
+   90  zypper se svn
+   91  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+   92  mvn
+   93  mvn -v
+   94  java -v
+   95  java -version
+   96  git
+   97  zypper se git
+   98  zipper install git
+   99  zypper install git
+  100  sudo zypper install git
+  101  git
+  102  mvn install -Dmaven.test.skip=true
+  103  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+  104  ls /etc/profile.d/
+  105  vi /etc/profile.d/maven.sh
+  106  npm -v
+  107  node -v
+  108  npx -v
+  109  jhipster
+  110  ls
+  111  pwd
+  112  cd ..
+  113  ls
+  114  cd dgutierrez/
+  115  ls
+  116  cd Documents/
+  117  ls
+  118  mkdir jHipsterProjects
+  119  ls
+  120  cd jHipsterProjects/
+  121  jhipster
+  122  startx
+  123  +-
+  124  -
+  125  ip,ho,,hoiouweodowejnoefoṕ2+
+  126  zypper ls
+  127  zypper ls 
+  128  snapper ls
+  129  sudo snapper ls
+  130  snapper
+  131  snapper ls
+  132  snapper list
+  133  startx
+  134  root
+  135  1201
+  136  startx
+  137  ls
+  138  pwd
+  139  cd ..
+  140  ls
+  141  ls h
+  142  exit
+  143  startx
+  144  root
+  145  1201
+  146  rcd /var/log/
+  147  ls
+  148  more zype
+  149  ls
+  150  snapper ls
+  151  snappersudo  ls
+  152  morls
+  153  ls -lsa
+  154  ls -la
+  155  cd ls -la
+  156  ls
+  157  more s
+  158  more y2l
+  159  mcd ..
+  160  ls
+  161  cd zy
+  162  ls
+  163  cdh
+  164  cdls
+  165  more h
+  166  mtail -1000 h
+  167  zypper se swell-foop
+  168  zypper se swell-finp
+  169  y
+  170  ls
+  171  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+  172  ls var/
+  173  cd var/
+  174  ls -lsa
+  175  cd ..
+  176  ls
+  177  cd root/
+  178  ls
+  179  ls -lsa
+  180  more .bash_history 
+  181  sudo more .bash_history 
+  182  cd /usr/share/bash/helpfiles/
+  183  ls -lsa
+  184  more history
+  185  cd history
+  186  ls -lsa
+  187  sudo more history 
+  188  ls
+  189  sudo more HISTORY
+  190  ls
+  191  git
+  192  history
+  193  ls
+  194  pwd
+  195  ls
+  196  pwd
+  197  cd ..
+  198  pwd
+  199  ps
+  200  ps aux
+  201  top
+  202  ps aux
+  203  ps aux | grep sl
+  204  ps aux | grep sql
+  205  pstree | grep sql
+  206  pstree aux | grep sql
+  207  pstree
+  208  top
+  209  ps aux
+  210  ps -e
+  211  htop
+  212  pstree | grep sql
+  213  ps -eH | grep sql
+  214  ps -f | grep sql
+  215  ps | grep sql
+  216  ps | grep java
+  217  ps -e
+  218  pstree aux | grep sql
+  219  ps aux | grep sql
+  220  ps | grep sql
+  221  ps -e | grep sql
+  222  pstree aux | grep sql
+  223  ps -f | grep sql
+  224  ps -eH | grep sql
+  225  ls
+  226  ps -eH | grep sql
+  227  ps -f | grep sql
+  228  ps -e | grep sql
+  229  ps aux | grep sql
+  230  ls
+  231  jhipster
+  232  ls -lstr
+  233  ls -lsatr
+  234  cd /home/
+  235  ls
+  236  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+  237  mvn clean install -Dmaven.test.skip=true
+  238  cd ..
+  239  ls
+  240  ls -lsa
+  241  cd springboot-servicio-commons
+  242  cd ..
+  243  cd springboot-servicio-commons/
+  244  ls
+  245  mvn clean install -Dmaven.test.skip=true
+  246  cd ..
+  247  ls -l
+  248  ls -lstr
+  249  cd springBoot-servicio-productos/
+  250  mvn clean install -Dmaven.test.skip=true
+  251  sudo zypper se kdeSVN
+  252  sudo zypper se SVN
+  253  sudo zypper in SVN
+  254  sudo zypper in kdesvn
+  255  sudo zypper in konsole
+  256  sudo zypper se konsole
+  257  sudo zypper in konsole
+  258  push
+  259  git push
+  260  ls
+  261  git add plantillaSolicitudSecciones.sql
+  262  ls
+  263  git push
+  264  ls
+  265  git pull
+  266  git push
+  267  history
+  268  sudo zypper se swell-foop
+  269  sudo openfortivpn -u dany.gutierrez --trusted-cert 0261e64d8b369246f454b84f8181cab2d5b66cf0a12174a23b66cccc6c0d09b9 148.207.98.249:443
+  270  git
+  271  ls
+  272  cd Documents/
+  273  cd repoScripts/
+  274  ls
+  275  git clone https://github.com/danygutierrez12/sqlBecas.git
+  276  ls
+  277  ls -lsa
+  278  cp plantillaSolicitudSecciones.sql sqlBecas/
+  279  ls
+  280  cd sqlBecas/
+  281  ls
+  282  git checkout
+  283  git checkout develop
+  284  ls
+  285  git add plantillaSolicitudSecciones.sql
+  286  git commit -m "plantillaSolicitud"
+  287  git config --global user.email illuminati.dany@gmail.com
+  288  git config --global user.name "danygutierrez12"
+  289  git commit -m "plantillaSolicitud"
+  290  gt push
+  291  git push
+  292  gt push
+  293  git push
+  294  ls -lsa
+  295  git add plantillaSolicitudSecciones.sql
+  296  git commit -m "plantillaSolicitud"
+  297  git push
+  298  git status
+  299  cd ..
+  300  ls
+  301  cd ..
+  302  ls
+  303  cd ..
+  304  ls}
+  305  ls
+  306  pwd
+  307  ls
+  308  cd Documents/
+  309  ls
+  310  cd comunesGit/
+  311  ls
+  312  git status
+  313  cd ..
+  314  ls
+  315  cd repoScripts/
+  316  ls
+  317  cd sqlBecas/
+  318  ls
+  319  git status
+  320  git checkout main
+  321  git push origin main
+  322  ls
+  323  rm plantillaSolicitudSecciones.sql
+  324  ls
+  325  git status
+  326  git push
+  327  pwd
+  328  cd Documents/jHipsterProjects/
+  329  ls
+  330  ls -lsa
+  331  ls -l
+  332  ls -lsa
+  333  cd JHCATEGORY/
+  334  ls
+  335  jhipster entity Persona_Fisica
+  336  jhipster entity PersonaFisica
+  337  ls
+  338  jhipster entity Persona
+  339  zypper -se docker
+  340  zypper
+  341  zypper -h
+  342  zypper se docker
+  343  zypper in docker
+  344  sudo zypper in docker
+  345  docker
+  346  docker -l
+  347  docker -list
+  348  docker
+  349  docker images ps
+  350  docker system
+  351  sudo systemctl start docker
+  352  docker images ps
+  353  sudo docker images ps
+  354  sudo systemctl stop docker
+  355  ls
+  356  cd ..
+  357  ls
+  358  mkdir docker-compose
+  359  cd docker-compose/
+  360  ls
+  361  ls ../
+  362  jhipster docker-compose
+  363  ..
+  364  ls
+  365  cd JHCATEGORY/
+  366  LS
+  367  ls
+  368  ./mvnw -ntp -Pprod verify jib:dockerBuild
+  369  sudo docker images ps
+  370  sudo systemctl start docker
+  371  ./mvnw -ntp -Pprod verify jib:dockerBuild
+  372  sudo ./mvnw -ntp -Pprod verify jib:dockerBuild
+  373  sudo
+  374  su
+  375  ./mvnw -ntp -Pprod verify jib:dockerBuild
+  376  cd ..
+  377  ls
+  378  cd JHGW2/
+  379  su
+  380  ./mvnw -ntp -Pprod verify jib:dockerBuild
+  381  su
+  382  cat /etc/environment 
+  383  cd /tmp/ng-VCQTOU/angular-errors.log
+  384  cd /home/dgutierrez/Documents/jHipsterProjects/JHGW2/target/classes/static
+  385  cd /home/dgutierrez/Documents/jHipsterProjects/JHGW2/target/classes
+  386  ls
+  387  ls -lsa
+  388  cd ..
+  389  ls
+  390  jhipster
+  391  ls
+  392  ls target/
+  393  ls target/node/
+  394  ls
+  395  ls ¿lsa
+  396  ls -lsas
+  397  cd jhgw/
+  398  ls
+  399  jhipster
+  400  ls
+  401  cd ..
+  402  ls
+  403  ls docker-compose/
+  404  ls
+  405  ls docker-compose/central-server-config/
+  406  cat docker-compose/central-server-config/
+  407  ls docker-compose/central-server-config/
+  408  cat docker-compose/central-server-config/application.yml
+  409  cd docker-compose/
+  410  ls
+  411  hipster docker-compose
+  412  jhipster docker-compose
+  413  ls
+  414  cd ..
+  415  ls
+  416  ls jHg*
+  417  ls jhgw/
+  418  ls JHGW2/
+  419  CD docker-compose
+  420  cd docker-compose
+  421  ls
+  422  jhipster docker-compose
+  423  ls
+  424  cd ..
+  425  cd jhgw/
+  426  ./mvnw -ntp -Pprod verify jib:dockerBuild
+  427  java -v
+  428  java -version
+  429  set
+  430  printenv
+  431  cd ..
+  432  pwd
+  433  ls
+  434  dpci
+  435* ls 
+  436  history
+  437  history > historySuse.txt
